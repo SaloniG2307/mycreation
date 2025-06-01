@@ -1,4 +1,4 @@
-# mycreation
+# ui-figma-designs
 This project showcases my design and development work.
 ## Figma Design Link
 [ view the design on figma]
